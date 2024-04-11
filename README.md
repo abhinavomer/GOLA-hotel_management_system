@@ -13,7 +13,7 @@ Welcome to the Gola Hotel Management System! This project aims to provide a comp
 2. Make sure you have Python installed.
 3. Run the main program by executing python home.py.
 ## Usage
-1.Upon running the program, follow the on-screen instructions to navigate through the system.
+1. Upon running the program, follow the on-screen instructions to navigate through the system.
 2. Choose between logging in or signing up to access the functionalities.
 3. Explore the different options available, such as booking hotels, making restaurant reservations, or modifying data.
 4. Enjoy using the Gola Hotel Management System!
