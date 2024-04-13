@@ -12,7 +12,7 @@ Welcome to the Gola Hotel Management System! This project aims to provide a comp
 ## Installation
 1. Clone this repository to your local machine.
 2. Make sure you have Python installed.
-3. First Run database create.py with your local sql username and password.
+3. First run datacreate.py with your local sql username and password.
 4. Then run the main program by executing python home.py.
 
 ## Usage
